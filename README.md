@@ -1,0 +1,1 @@
+# 12-Terraform-Entra-Lab
